@@ -1,5 +1,5 @@
-# 问财爬虫，亲测可用
-iwencai_spider_dyc
+＃问财爬虫，亲测可用
+js逆向
 通常我们面对问财的爬虫是没有解决方案的，但是运用反爬技术就行
 
 图像
@@ -8,4 +8,4 @@ iwencai_spider_dyc
 扫码付款后发送截图到我的邮箱，我可以代码发至邮箱
 
 我的邮箱：1440414483@qq.com
-liusiyong17@gmail.com 邮箱联系
+liusiyong17@gmail.com邮箱联系
